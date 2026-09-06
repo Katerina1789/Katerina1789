@@ -13,12 +13,12 @@ A structured, hands‑on learning experience that has shaped how I think about p
 
 ## Personal Projects
 
-♡ **[Biba Buba](https://github.com/Katerina1789/Biba-Buba)**  
+♡ **Biba Buba**  
 A private shared space for couples to communicate, plan, and store memories.  
 It includes a playful shopping cart (for dates, hugs, small gestures), a note‑board messaging system, photo and video carousels, countdowns, date and trip suggestions, shared lists, and love‑note letters — all designed to help two people stay connected and organize life together in a simple, meaningful way.  
 Coming December 2026.
 
-♡ **[Code of Yarn](https://github.com/Katerina1789/Code-of-Yarn)**  
+♡ **Code of Yarn**  
 A crochet‑pattern generator that creates full, scalable patterns using geometric primitives, gauge models, and stitch metadata.  
 Users select what they want to make, provide dimensions (and optionally yarn or hook size), and the system produces a complete, deterministic pattern in beginner, intermediate, or advanced format.  
 Scheduled for Spring 2027.
