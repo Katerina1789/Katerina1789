@@ -15,7 +15,7 @@ A structured, hands‑on learning experience that has shaped how I think about p
 
 ♡ **Biba Buba**  
 A private shared space for couples to communicate, plan, and store memories.  
-It includes a playful shopping cart (for dates, hugs, small gestures), a note‑board messaging system, photo and video carousels, countdowns, date and trip suggestions, shared lists, and love‑note letters — all designed to help two people stay connected and organize life together in a simple, meaningful way.  
+It includes a playful shopping cart (for dates, hugs, small gestures), a note‑board messaging system, photo and video carousels, countdowns, date and trip suggestions, shared lists, and love‑note letters designed to help people stay connected and organize their life together in a simple, meaningful way.  
 Coming December 2026.
 
 ♡ **Code of Yarn**  
@@ -25,7 +25,7 @@ Scheduled for Spring 2027.
 
 ♡ **FocusLotl**  
 An underwater‑themed focus timer built around a customizable axolotl companion.  
-It supports countdown timers, Pomodoro cycles, custom focus/break sets, device notifications, bubble‑pop sounds, and soft underwater animations — all designed to create a calm, engaging study environment.  
+It supports countdown timers, Pomodoro cycles, custom focus/break sets, device notifications, bubble‑pop sounds, and soft underwater animations with the goal to create a calm, engaging study environment.  
 Launching October 2026.
 
 Two larger projects are in development and will be shared once they’re more concrete.
@@ -45,4 +45,4 @@ Outside of code, I’m writing a fantasy book series — a world I hope to grow 
 
 ## Connect
 
-**LinkedIn:** https://www.linkedin.com/in/katerina-kasdanastasi
+**[LinkedIn](https://www.linkedin.com/in/katerina-kasdanastasi)**
